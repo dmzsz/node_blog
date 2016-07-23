@@ -82,7 +82,7 @@ var config = {
   GITHUB_OAUTH: {
     clientID: '10bc2d61fd3052100f04',
     clientSecret: '9ced7dc1c47aca6d1fb422c8dd3e3b1b4f05dd4f',
-    callbackURL: 'http://114.111.166.67:3000/auth/github/callback'
+    callbackURL: 'http://123.206.9.209:3000/auth/github/callback'
   },
   // 是否允许直接注册（否则只能走 github 的方式）
   allow_sign_up: true,
