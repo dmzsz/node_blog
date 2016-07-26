@@ -6,6 +6,9 @@ node_modules
 coverage.html
 .monitor
 
+# deploy
+ecosystem.json
+
 *.min.*.js
 *.min.*.css
 assets.json
